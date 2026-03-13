@@ -199,6 +199,9 @@ function addShiftRecord(textFile, shiftObj) {
 // ============================================================
 function setBonus(textFile, driverID, date, newValue) {
     // TODO: Implement this function
+// start fun 6
+
+
 }
 
 // ============================================================
